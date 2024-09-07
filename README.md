@@ -1,4 +1,4 @@
-# go-hexa-abstract-repo-combining
+# go-repo-abstract-repo-combining
 Abstract Repository Combining Two/Multiple Repositories (OrderDocumentRepo)
 
 ## Abstract Repository Combining Two/Multiple Repositories (OrderDocumentRepo)
